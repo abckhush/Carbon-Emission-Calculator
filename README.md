@@ -6,8 +6,8 @@ This is a simple SQL project that demonstrates how to create a basic carbon emis
 ## Project Structure
 The project consists of the following files:
 
-carbon_emission.sql: SQL script containing the database schema and sample data for the emissions table.
-README.md: This file, providing an overview of the project and instructions for usage.
+- carbon_emission.sql: SQL script containing the database schema and sample data for the emissions table.
+- README.md: This file, providing an overview of the project and instructions for usage.
 
 ## Getting Started
 To use the Carbon Emission Calculator:
